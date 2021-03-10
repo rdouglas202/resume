@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Ryan Personal Webpage</title>
+</head>
+<body bgcolor="green" text="white">
+
+<h1 align="center"> Ryan Douglas Resume </h1>
+
+<img src="senior_photo.jpg" alt="senior photo" width="150" height="200">
+
+<p style="text-align:right"> Address: 4209 Williamson Lane, Carrollton, Texas 75010 <br> <br>
+
+Phone: (469) 435 - 1873 Email: redouglas@aggies.ncat.edu <br> <br> 
+
+Website: <a href="https://ryan-douglas.github.io/profile/index.html" style="color:red;"> Link to my Personal Page </a>
+<br> <br>
+
+</p>
+<p>
+<h3> Objective </h3>
+
+Seeking an engineering summer internship opportunity with a progressive organization that will allow me to gain real-world experience while adding value.
+
+</p>
+<h3> Research Interests </h3>
+
+<ul>
+<li> Privacy and Security <\li>
+<li> Privacy and Security <\li>
+<li> Privacy and Security <\li>
+<\ul>
+<\body>
+<\html>
